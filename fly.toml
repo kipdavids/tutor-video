@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for tutorstreamlive on 2025-06-05T13:10:23+03:00
+# fly.toml app configuration file generated for tutorstream on 2025-06-05T13:42:27+03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'tutorstreamlive'
+app = 'tutorstream'
 primary_region = 'jnb'
 
 [build]
